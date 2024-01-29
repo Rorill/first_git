@@ -1,0 +1,17 @@
+body,html {
+    height: 100%;
+    width: 100%;
+}
+
+#bravo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+}
+
+#tango {
+    font-size: 60pt;
+    font-weight: bold;
+}
+
